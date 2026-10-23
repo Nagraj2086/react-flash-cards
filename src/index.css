@@ -1,0 +1,14 @@
+/* import React from 'react'
+import './App.css'
+import FlashCard from '../components/FlashCard'
+import flashcards from './data/flashcards'
+function App() {
+  return (
+    <div className='app'>
+      <h1>React Flash Cards</h1>
+      < FlashCard question={flashcards[0].question} answer={flashcards[0].answer} />
+    </div>
+  )
+}
+
+export default App */
